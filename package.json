@@ -1,0 +1,16 @@
+{
+  "name": "s3-contacts-upload-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node -r dotenv/config app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.686.0",
+    "dotenv": "^8.2.0"
+  }
+}
